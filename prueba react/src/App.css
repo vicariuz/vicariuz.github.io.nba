@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.accordion-collapse{
+    height: 10rem;
+    width: auto;
+}
+
+
+
+.accordion-body{
+font-weight: bold;
+}
+
+.buscador1{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: black;
+    color:white;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+
+.buscador1 i {
+    font-size: 48px; /* Ajusta el tamaño según tus preferencias */
+    margin: 1rem;
+  }
+  
+
+.buscador2{
+    margin-top: 15rem;
+}
+
+#cityName {
+    font-size: 30px; /* Cambia el valor según lo que necesites */
+    font-weight: bold; /* Puedes ajustar la propiedad según lo que desees */
+  }
+
+  .acordeon{
+    margin-top: 2rem;
+    padding: 1rem;
+  }
